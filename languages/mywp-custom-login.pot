@@ -1,0 +1,343 @@
+# Copyright (C) 2023 Whodunit Agency
+# This file is distributed under the GPL-2.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: MyWP Custom Login 0.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mywp-custom-login\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-02-01T16:59:36+01:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.1-alpha-41c44d5\n"
+"X-Domain: mywp-custom-login\n"
+
+#. Plugin Name of the plugin
+#: class/whodunit/mywpCustomLogin/page/PageAdminSettings.php:21
+msgid "MyWP Custom Login"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://whodunit.fr/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Customise WordPress login page"
+msgstr ""
+
+#. Author of the plugin
+msgid "Whodunit Agency"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/page/Page.php:104
+msgid "Thank you for using our product :)"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/page/PageAdminSettings.php:20
+msgid "General Settings"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/page/PageAdminSettings.php:55
+msgid "Settings"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/Plugin.php:77
+msgid "version : "
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/rest/RestRouteSettings.php:60
+msgid "MyWP Custom Login options saved"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/rest/RestRouteSettings.php:65
+msgid "MyWP Custom Login options have not change"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/rest/RestRouteSettings.php:70
+msgid "MyWP Custom Login options cant save"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:174
+msgid "Add media"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:186
+msgid "Dashboard Settings"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:190
+msgid "Footer Text"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:193
+msgid "Version Text"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:209
+msgid "Misc"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:213
+msgid "Remove data on uninstall"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:214
+msgid "If checked, all data will be removed on plugin deactivation."
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:232
+msgid "Logo"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:240
+msgid "Logo Title"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:244
+msgid "Logo URL"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:253
+msgid "Logo Width"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:254
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:258
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:341
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:396
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:402
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:503
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:527
+msgid "px"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:257
+msgid "Logo Height"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:280
+msgid "Background"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:285
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:441
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:547
+msgid "Background Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:288
+msgid "Background Image"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:291
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:455
+msgid "Background Repeat"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:293
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:457
+msgid "no-repeat"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:294
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:458
+msgid "repeat"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:295
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:459
+msgid "repeat-x"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:296
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:460
+msgid "repeat-y"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:300
+msgid "Background Size"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:301
+msgid "Possible values: <code>auto</code>, <code>cover</code>, <code>contain</code> or numeric value. If a numeric value is provided, a unit (<code>px</code>, <code>%</code>, etc.) must be defined."
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:304
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:468
+msgid "Background Horizontal Position"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:305
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:309
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:469
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:477
+msgid "Possible values: <code>left</code>, <code>center</code>, <code>right</code> or numeric value. If a numeric value is provided, a unit (<code>px</code>, <code>%</code>, etc.) must be defined."
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:308
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:476
+msgid "Background Vertical Position"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:332
+msgid "Form Layout"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:340
+msgid "Form Width"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:346
+msgid "Form Box Shadow"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:353
+msgid "Enable Form Box shadow"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:360
+msgid "Form Box Shadow Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:372
+msgid "Border Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:377
+msgid "Border Style"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:379
+msgid "None"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:380
+msgid "Solid"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:381
+msgid "Dotted"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:382
+msgid "Dashed"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:383
+msgid "Double"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:395
+msgid "Border Width"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:401
+msgid "Border Radius"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:434
+msgid "Form Background"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:448
+msgid "Background Image URL"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:494
+msgid "Form Label"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:499
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:523
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:550
+msgid "Font Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:502
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:526
+msgid "Font Size"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:518
+msgid "Form Input"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:542
+msgid "Form Button"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:568
+msgid "Form Link"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:575
+msgid "Link Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:581
+msgid "Text Shadow"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:588
+msgid "Enable Text Shadow"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:595
+msgid "Text Shadow Color"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:617
+msgid "Footer"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:621
+msgid "Remove Links"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:626
+msgid "Remove \"Register | Lost your password?\" link"
+msgstr ""
+
+#: class/whodunit/mywpCustomLogin/utility/Helpers.php:629
+msgid "Remove \"Back to website\" link"
+msgstr ""
+
+#: views/pages/admin_settings.php:27
+msgid "General settings"
+msgstr ""
+
+#: views/pages/admin_settings.php:51
+msgid "Form settings"
+msgstr ""
+
+#: views/pages/admin_settings.php:82
+msgid "Save Settings"
+msgstr ""
+
+#: views/parts/admin_settings_header.php:22
+msgid "MyWP"
+msgstr ""
+
+#: views/parts/admin_settings_header.php:23
+msgid "Custom Login"
+msgstr ""
+
+#: views/parts/admin_settings_header.php:29
+msgid "Need some help?"
+msgstr ""
+
+#. translators: 1: Opening HTML link tag. 2: Closing HTML link tag. 3: Opening HTML link tag. 4: Closing HTML link tag.
+#: views/parts/admin_settings_header.php:34
+msgid "Ask to %1$ssupport%2$s or check our %3$sdocumentation%4$s!"
+msgstr ""
+
+#: assets/js/admin_script.js:90
+msgid "Choose Image"
+msgstr ""
+
+#: assets/js/admin_script.js:91
+msgid "Select Image"
+msgstr ""

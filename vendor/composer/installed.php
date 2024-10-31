@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'whodunit/mywp-custom-login',
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'c795f657f9e9de60f91f31a8e9dd7be9d1175a5e',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'matthiasmullie/minify' => array(
+            'pretty_version' => '1.3.68',
+            'version' => '1.3.68.0',
+            'reference' => 'c00fb02f71b2ef0a5f53fe18c5a8b9aa30f48297',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../matthiasmullie/minify',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'matthiasmullie/path-converter' => array(
+            'pretty_version' => '1.1.3',
+            'version' => '1.1.3.0',
+            'reference' => 'e7d13b2c7e2f2268e1424aaed02085518afa02d9',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../matthiasmullie/path-converter',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'whodunit/mywp-custom-login' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'c795f657f9e9de60f91f31a8e9dd7be9d1175a5e',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

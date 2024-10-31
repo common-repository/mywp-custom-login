@@ -1,0 +1,21 @@
+{
+    "translation-revision-date": "2023-02-01 14:59+0100",
+    "generator": "WP-CLI\/2.5.1-alpha-41c44d5",
+    "source": "assets\/js\/admin_script.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "fr",
+                "plural-forms": "nplurals=2; plural=(n > 1);"
+            },
+            "Choose Image": [
+                "Choisir une image"
+            ],
+            "Select Image": [
+                "s\u00e9lectionner une image"
+            ]
+        }
+    }
+}
